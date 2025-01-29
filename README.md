@@ -28,7 +28,7 @@ This project was originally developed **8 years ago**. A **newly built version**
 </p>
 
 <p align="start">
-  <img src="https://i.ibb.co/7d9N5rPZ/Screenshot-2025-01-29-at-10-17-29-PM.png" width="500">
+  <img src="https://i.ibb.co/rf1LZL7t/Screenshot-2025-01-29-at-10-17-29-PM.png" width="500">
 </p>
 
 <p align="start">
