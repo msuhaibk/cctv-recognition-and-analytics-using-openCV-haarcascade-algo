@@ -19,20 +19,20 @@ This project is a **Customer Recognition and Monitoring System** for store surve
 This project was originally developed **8 years ago**. A **newly built version** with improved features and a modern tech stack will be released soon. Stay tuned for updates!
 
 ## Images & Screenshots
-<p align="center">
-  <img src="https://pro-vigil.com/wp-content/uploads/2022/11/Monitor-Customer-Behaviors-CCTV-1024x679.jpg" width="500">
+<p align="start">
+  <img src="https://pro-vigil.com/wp-content/uploads/2022/11/Monitor-Customer-Behaviors-CCTV-1024x679.jpg" width="300">
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://i.ibb.co/1GqBR4t1/Screenshot-2025-01-29-at-10-17-46-PM.png" width="500">
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://i.ibb.co/7d9N5rPZ/Screenshot-2025-01-29-at-10-17-29-PM.png" width="500">
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/xqbztZTr/Screenshot-2025-01-29-at-10-16-52-PM.png" width="500">
+<p align="start">
+  <img src="https://i.ibb.co/xqbztZTr/Screenshot-2025-01-29-at-10-16-52-PM.png" width="300">
 </p>
 
 
