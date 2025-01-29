@@ -13,23 +13,43 @@ This project is a **Customer Recognition and Monitoring System** for store surve
 - **Real-time customer detection and recognition** using **Haar Cascade**.
 - **Customer interest analysis** based on past billing history.
 - **Sales panel** for data visualization and decision-making.
+- **Insight Collection:** During checkout at the counter, customer details are recorded, including names and past billing history, which are linked to facial recognition data for personalized insights.
 
 ## Important Note
 This project was originally developed **8 years ago**. A **newly built version** with improved features and a modern tech stack will be released soon. Stay tuned for updates!
 
+## Images & Screenshots
+<p align="center">
+  <img src="https://pro-vigil.com/wp-content/uploads/2022/11/Monitor-Customer-Behaviors-CCTV-1024x679.jpg" width="500">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/1GqBR4t1/Screenshot-2025-01-29-at-10-17-46-PM.png" width="500">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/7d9N5rPZ/Screenshot-2025-01-29-at-10-17-29-PM.png" width="500">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/xqbztZTr/Screenshot-2025-01-29-at-10-16-52-PM.png" width="500">
+</p>
+
+
 ## Setup and Configuration
 ### Prerequisites
 To run this project, make sure you have the following dependencies installed:
-- Python 3.x
-- OpenCV (`pip install opencv-python`)
-- NumPy (`pip install numpy`)
-- SQLite3 (comes pre-installed with Python)
+```bash
+Python 3.x
+pip install opencv-python numpy
+# SQLite3 comes pre-installed with Python
+```
 
 ### Configuration Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/msuhaibk/cctv-recognition-and-analytics-using-openCV-haarcascade-algo
-   cd root
+   git clone https://github.com/msuhaibk/cctv-recognition-and-analytics-using-openCV-haarcascade-algo.git
+   cd cctv-recognition-and-analytics-using-openCV-haarcascade-algo
    ```
 2. **Install the required dependencies:**
    ```bash
